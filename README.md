@@ -14,3 +14,17 @@ The LUCIDVIS notebook contains code for visualizing the lucid stock.
 
 
 The workflow for this data wrangling project can be visualized in workflow.jpg.
+
+Resources
+https://www.tesladeaths.com/
+Bachman, Elon, and I Capulet. “Digital Record of Tesla Crashes Resulting in Death.” Tesla Deaths, Tesla Deaths, 29 Sept. 2023, www.tesladeaths.com/.
+Tesla, Inc. (TSLA) Historical Data | Nasdaq
+“TSLA Historical Data .” Nasdaq, www.nasdaq.com/market-activity/stocks/tsla/historical. Accessed 8 Nov. 2023.
+https://www.nasdaq.com/market-activity/stocks/lcid/historical
+“LCID Historical Data.” Nasdaq, www.nasdaq.com/market-activity/stocks/lcid/historical. Accessed 8 Nov. 2023.
+https://www.investopedia.com/articles/active-trading/072115/what-makes-teslas-business-model-different.asp  
+
+https://blog.gitnux.com/companies/lucid-motors/  
+
+https://www.kaggle.com/code/majinx/tesla-stock-price-prediction-using-lstm/notebook
+Majinx. “Tesla Stock Price Prediction Using LSTM.” Kaggle, Kaggle, 8 Feb. 2023, www.kaggle.com/code/majinx/tesla-stock-price-prediction-using-lstm/notebook. 
