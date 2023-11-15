@@ -1,0 +1,292 @@
+Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Other vehicle,Cyclists/Peds,TSLA+cycl / peds,Model,Autopilot claimed,Reported in NHTSA SGO
+370,2023,10/14/2023,USA,WA,Car hit by oncoming Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+369,2023,10/14/2023,USA,CA,Stolen Tesla hits minivan,2,1,0,1,0,1,#N/A,FALSE,#N/A
+368,2023,10/13/2023,USA,CA," Tesla hits divider and tree, ignites ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+367,2023,10/10/2023,USA,MA,Tesla hits car making u-turn,1,0,0,1,0,0,#N/A,FALSE,#N/A
+366,2023,10/4/2023,USA,CA," Head-on collision, Tesla catches fire ",1,1,0,0,0,1,Y,FALSE,#N/A
+365,2023,10/2/2023,USA,CA,Tesla heading in wrong direction collides with car,2,1,0,1,0,1,3,FALSE,#N/A
+364,2023,9/30/2023,USA,CA,Tesla hits pole,1,1,0,0,0,1,Y,FALSE,#N/A
+363,2023,9/25/2023,USA,VA,Rear-end car crash,1,0,0,1,0,0,#N/A,FALSE,#N/A
+361,2023,9/24/2023,USA,PA,Collision,3,0,0,0,0,0,#N/A,FALSE,#N/A
+360,2023,9/4/2023,USA,VA,Motorcycle and Tesla head-on collide,1,0,0,1,0,0,#N/A,FALSE,#N/A
+359,2023,9/1/2023,USA,ID,Tesla crosses center line and hits oncoming car,4,1,2,1,0,4,#N/A,FALSE,#N/A
+358,2023,8/29/2023,USA,TX,Tesla crashes into wall of hospital,2,1,1,0,0,2,#N/A,FALSE,#N/A
+357,2023,8/13/2023,USA,NJ,Motorcycle hits Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+355,2023,8/12/2023,USA,CA,Multi-car accident involving semi,1,0,0,0,0,0,#N/A,FALSE,#N/A
+354,2023,8/1/2023,USA,CA,Motorcycle hits Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+353,2023,7/31/2023,USA,TX,Hit and run,1,0,0,0,1,1,#N/A,FALSE,#N/A
+352,2023,7/29/2023,USA,UT," Tesla crashes into tree, burns ",3,1,2,0,0,3,#N/A,FALSE,#N/A
+351,2023,7/29/2023,USA,TX," Tesla crashes into tree, burns ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+350,2023,7/22/2023,USA,NC,Tesla crashes into trees,1,1,0,0,0,1,#N/A,FALSE,#N/A
+349,2023,7/21/2023,USA,VA,Tesla crashes into side of truck,1,1,0,0,0,1,Y,TRUE,13781-5996
+348,2023,7/20/2023,USA,CA,Multi-car accident,1,0,0,0,0,0,#N/A,FALSE,#N/A
+346,2023,7/16/2023,USA,FL,Tesla runs off road and crashes into pole,1,1,0,0,0,1,Y,FALSE,#N/A
+345,2023,7/8/2023,USA,MN,Speeding Tesla crashes into minivan,1,0,0,1,0,0,#N/A,FALSE,#N/A
+344,2023,7/8/2023,USA,CA,Tesla crashes in parking lot,3,1,2,0,0,3,#N/A,FALSE,#N/A
+342.2,2023,7/7/2023,USA,CA,Tesla hits fire hydrant and burns,2,1,1,0,0,2,#N/A,FALSE,#N/A
+342.1,2023,7/7/2023,USA,CA,Multi Car accident involving DUI,1,0,0,1,0,0,#N/A,FALSE,#N/A
+342,2023,7/5/2023,USA,CA,Collision,2,0,1,1,0,1,3,FALSE," 13781-5835
+ "
+341,2023,7/4/2023,USA,FL,Tesla crashes into divider,1,1,0,0,0,1,#N/A,FALSE,#N/A
+338,2023,6/29/2023,USA,NY," Tesla crashes into house, explodes ",2,0,0,0,0,0,X,FALSE,#N/A
+337.1,2023,6/26/2023,USA,WA," Tesla hits trees, ignites ",1,1,0,0,0,0,#N/A,FALSE,#N/A
+337,2023,6/26/2023,USA,CA,Tesla t-bones car,1,0,0,1,0,0,#N/A,FALSE,#N/A
+336,2023,6/22/2023,USA,MD,Tesla crashes into divider,1,1,0,0,0,0,#N/A,FALSE,#N/A
+335.1,2023,6/20/2023,USA,CA,Car collides with Tesla,1,0,0,1,0,0,Y,FALSE,13781-5785
+335,2023,6/15/2023,USA,FL,Tesla loses control and hits divider,1,1,0,0,0,0,#N/A,FALSE,#N/A
+334,2023,6/14/2023,USA,CA," Tesla loses control and hits tree, catches fire ",2,1,1,0,0,0,Y,FALSE,#N/A
+333,2023,6/13/2023,USA,CA,Tesla rolls off road and hits culvert,1,1,0,0,0,0,#N/A,FALSE,#N/A
+332,2023,6/11/2023,USA,NY,Tesla rolls off road,4,1,3,0,0,4,#N/A,FALSE,#N/A
+331,2023,6/11/2023,USA,MA,Motorcycle crashes into Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+330,2023,6/7/2023,USA,NY,Tesla hits pedestrian,1,0,0,0,1,1,#N/A,FALSE,13781-5685
+329,2023,6/6/2023,USA,OR," Tesla drifts off interstate, hits tree, catches fire ",1,1,0,0,0,1,S,FALSE,13781-5673
+328,2023,5/31/2023,USA,CA,SUV and Tesla collide,2,1,0,1,0,1,#N/A,FALSE,#N/A
+327,2023,5/28/2023,USA,IL,Tesla hits ejected motorcyclist,1,0,0,0,1,1,#N/A,FALSE,#N/A
+326,2023,5/23/2023,USA,CT,Tesla crashes in nine cars,1,1,0,0,0,1,#N/A,FALSE,#N/A
+325,2023,5/22/2023,USA,GA," Tesla crashes into woods, catches fire ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+324,2023,5/14/2023,USA,CA,SUV filled with family members and Tesla collide,3,0,0,3,0,0,#N/A,FALSE,#N/A
+323,2023,5/13/2023,USA,OR,Tesla collides with tow truck,1,1,0,0,0,1,#N/A,FALSE,#N/A
+321,2023,5/5/2023,USA,CA,Motorcycle crashes into Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+319,2023,4/30/2023,USA,NJ,Collision,1,0,0,1,0,0,#N/A,FALSE,#N/A
+318,2023,4/25/2023,USA,CA,Tesla hits electric bike,1,0,0,0,1,1,#N/A,FALSE,#N/A
+317,2023,4/23/2023,USA,CA,Multi Car crash,2,0,0,2,0,0,3,FALSE,13781-5372
+316,2023,4/18/2023,USA,CT," Tesla hits car, car crashes into median ",1,0,0,1,0,0,#N/A,FALSE,#N/A
+315,2023,4/17/2023,USA,TX,Two car collision,1,1,1,0,0,1,3,FALSE,#N/A
+314,2023,4/14/2023,USA,AL,Tesla crashes into semi,2,1,1,0,0,2,#N/A,FALSE,#N/A
+313,2023,4/3/2023,USA,CA,Fiery crash,1,0,1,0,0,1,X,FALSE,#N/A
+312.1,2023,3/28/2023,USA,CA,Pickup hits Tesla,1,0,0,0,0,1,#N/A,FALSE,13781-5165
+312,2023,3/25/2023,USA,CA,Hit and run,1,0,0,0,1,1,3,FALSE,#N/A
+311.1,2023,3/15/2023,USA,NJ," Tesla hits tree during snow storm, ignites ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+311,2023,3/12/2023,USA,UT,Car hits Tesla that crashed into cable barrier; inclement weather,1,0,0,1,0,0,#N/A,FALSE,#N/A
+310,2023,2/25/2023,USA,MO,Tesla hits turning car,1,0,0,1,0,0,#N/A,FALSE,#N/A
+309,2023,2/25/2023,USA,CA,Collision,2,1,1,0,0,2,#N/A,FALSE,#N/A
+308,2023,2/21/2023,USA,DC,Multi-car crash,1,1,0,0,0,1,3,FALSE,#N/A
+307,2023,2/20/2023,USA,ID,Tesla drives into embankment,1,1,0,0,0,1,#N/A,FALSE,#N/A
+306,2023,2/20/2023,USA,CA,Tesla drives into opposite lane,3,0,2,1,0,2,#N/A,FALSE,#N/A
+305,2023,2/18/2023,USA,CA,Tesla crashes into fire truck,1,1,0,0,0,1,#N/A,TRUE,13781-4963
+303,2023,2/17/2023,USA,NY,Tesla collides with car head-on,4,1,1,2,0,2,#N/A,FALSE,#N/A
+302,2023,2/15/2023,USA,CO,Four vehicle collision,1,0,0,1,0,0,#N/A,FALSE,#N/A
+301,2023,2/14/2023,USA,NJ,Pickup hits Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+300,2023,2/7/2023,USA,TN,Two-car collision,2,1,1,0,0,2,#N/A,FALSE,#N/A
+299,2023,1/31/2023,USA,PA,Speeding Tesla hits pedestrian,1,0,0,0,1,1,3,FALSE,#N/A
+298,2023,1/30/2023,USA,MO,Speeding Tesla crashes into car,1,0,0,1,0,0,#N/A,FALSE,#N/A
+297,2023,1/21/2023,USA,CA,Tesla crashes into resident's pool,1,1,0,0,0,1,#N/A,FALSE,#N/A
+296,2023,1/17/2023,USA,CA,Tesla crashes into back of semi,1,1,0,0,0,1,#N/A,FALSE,#N/A
+294,2023,1/7/2023,USA,WA," Tesla hits pole, catches on fire ",1,0,1,0,0,1,#N/A,FALSE,#N/A
+293.1,2023,1/7/2023,USA,WA," Tesla hits pole, ignites ",1,0,1,0,0,1,#N/A,FALSE,#N/A
+293,2022,12/22/2022,USA,GA,Tesla crashes and burns,1,1,0,0,0,1,#N/A,FALSE,#N/A
+291,2022,12/18/2022,USA,CA,Tesla hit two other cars,1,0,1,0,0,0,#N/A,FALSE,#N/A
+290,2022,12/17/2022,USA,CA,Tesla hits pedestrian on highway,1,0,0,0,1,1,#N/A,FALSE,#N/A
+289,2022,12/11/2022,USA,CA,Tesla crashes into wall,1,1,0,0,0,0,#N/A,FALSE,#N/A
+288,2022,12/11/2022,USA,MO,Collision at intersection,1,0,0,1,0,0,#N/A,FALSE,#N/A
+285,2022,11/27/2022,USA,CA," Tesla careens off road, hits trees ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+284,2022,11/26/2022,USA,AR,Tesla hits pedestrian,1,0,0,0,1,1,#N/A,FALSE,#N/A
+281,2022,11/12/2022,USA,CA,Multi-vehicle accident,1,0,0,1,0,0,#N/A,FALSE,#N/A
+280,2022,11/11/2022,USA,CA," Tesla hits wall, catches fire ",1,0,1,0,0,0,#N/A,TRUE,#N/A
+278,2022,11/4/2022,USA,IL," Collision at intersection, Tesla driver dies in hospital ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+277,2022,10/19/2022,USA,CA,Multi-car crash,1,1,0,0,0,1,#N/A,FALSE,#N/A
+276,2022,10/18/2022,USA,FL," Tesla collides with minivan, engulfed by flames ",4,1,1,2,0,2,#N/A,FALSE,#N/A
+274,2022,10/9/2022,USA,CA,Tesla hits concrete block,1,0,1,0,0,1,#N/A,FALSE,#N/A
+273,2022,10/1/2022,USA,FL,Tesla hits tree and catches fire,1,1,0,0,0,1,#N/A,FALSE,#N/A
+272,2022,9/18/2022,USA,SC," Tesla crashes into tree, ignites ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+271,2022,9/18/2022,USA,MD,Multi-car accident,1,0,0,1,0,0,#N/A,FALSE,#N/A
+270,2022,9/16/2022,USA,GA," Tesla loses control and crashes into bus shelter, kills man inside ",1,0,0,0,1,1,#N/A,TRUE,#N/A
+269,2022,9/13/2022,USA,CA,Tesla runs off highway,1,1,0,0,0,1,3,TRUE,13781-4011
+268,2022,9/12/2022,USA,NY," Tesla runs off road, catches fire ",1,1,0,0,0,0,#N/A,FALSE,#N/A
+267,2022,9/7/2022,USA,CA,Motorcycle collides with Tesla,1,1,0,0,0,0,#N/A,FALSE,#N/A
+266.1,2022,9/-/2022,USA,FL,[REDACTED],1,0,0,0,0,0,Y,FALSE," 13781-5248 | Currently marked as [Unknown] for ""Automated System Engaged?"" "
+266,2022,8/30/2022,USA,CA,Tesla hits motorcycle,1,0,0,1,0,0,#N/A,FALSE,#N/A
+265,2022,8/26/2022,USA,FL,Tesla hits motorcycle,1,0,0,1,0,0,3,TRUE,13781-3713
+264,2022,8/24/2022,USA,MA,Motorcyclist hits Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+263,2022,8/23/2022,USA,SC,Multi-car accident on highway,2,0,0,2,0,0,3,TRUE,13781-3710
+261,2022,8/20/2022,USA,FL," Tesla swerves, runs off roadway, overturns ",1,1,0,0,0,1,S,FALSE,#N/A
+260,2022,8/20/2022,USA,FL,Pedestrian hit in road,1,0,0,0,1,1,#N/A,FALSE,#N/A
+258,2022,8/14/2022,USA,CA,Tesla veers into oncoming traffic,4,1,3,0,0,4,#N/A,FALSE,#N/A
+256,2022,8/2/2022,USA,FL,Man in wheelchair hit crossing road,1,0,0,0,1,1,3,FALSE,#N/A
+254,2022,7/27/2022,USA,ME,Tesla crashes at high speed,1,1,0,0,0,1,#N/A,FALSE,#N/A
+253,2022,7/24/2022,USA,UT,Tesla hits motorcycle,1,0,0,1,0,0,3,TRUE,13781-3488
+252,2022,7/16/2022,USA,PA,Tesla goes airborne and crashes,1,1,0,0,0,1,#N/A,FALSE,#N/A
+250,2022,7/8/2022,USA,CA,3-car accident involving Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+249,2022,7/8/2022,USA,HA,Motorcycle crashes into Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+248,2022,7/7/2022,USA,CA,Motorcycle hit by Tesla,1,0,0,1,0,0,Y,TRUE,13781-3488
+247,2022,7/6/2022,USA,FL,Tesla hits parked tractor-trailer,2,1,1,0,0,2,S,TRUE,13781-3327
+246,2022,7/5/2022,USA,GA," Tesla strikes pole, burns ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+245,2022,6/26/2022,USA,CA,Tesla drives into opposite lane,1,0,0,1,0,0,#N/A,FALSE,#N/A
+244,2022,6/20/2022,USA,AL,Tesla crashes into car,1,0,0,1,0,0,#N/A,FALSE,#N/A
+243,2022,6/20/2022,USA,PA,Tesla hit and run,1,0,0,0,1,1,#N/A,FALSE,#N/A
+241,2022,6/19/2022,USA,MI," Tesla hits telephone pole, ignites ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+240,2022,6/17/2022,USA,CA,Head-on collision,2,1,1,0,0,2,#N/A,FALSE,#N/A
+239,2022,6/14/2022,USA,CA,Tesla moves into opposite lane and head-on crashes,1,0,0,1,0,0,#N/A,FALSE,#N/A
+238,2022,6/13/2022,USA,CA,Two-car collision,1,1,0,0,0,1,#N/A,FALSE,#N/A
+237,2022,6/7/2022,USA,CA,DUI crash,1,0,0,0,1,1,#N/A,FALSE,#N/A
+236,2022,6/3/2022,USA,NV,Motorcycle crashes into Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+235,2022,6/-/2022,USA,NJ,[REDACTED],1,0,0,0,0,1,3,TRUE,13781-3513
+234,2022,5/28/2022,USA,NY,Tesla DUI crash,1,0,0,1,0,0,#N/A,FALSE,#N/A
+233,2022,5/28/2022,USA,OR,Tesla loses control and crashes into car,2,1,0,1,0,1,Y,FALSE,#N/A
+232,2022,5/28/2022,USA,CA,Speeding tesla crashes into tree,1,1,0,0,0,1,#N/A,FALSE,#N/A
+231,2022,5/25/2022,USA,OR,Tesla crashes into pole,1,0,1,0,0,1,S,FALSE,#N/A
+230,2022,5/23/2022,USA,AZ,Tesla driver hit in multi-car accident,1,1,0,0,0,1,#N/A,FALSE,#N/A
+228,2022,5/19/2022,USA,NJ," Tesla hits trees, ignites ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+227,2022,5/19/2022,USA,NJ,Multiple car crash on highway,1,1,0,0,0,1,#N/A,FALSE,#N/A
+226,2022,5/18/2022,USA,CA,Tesla hits pedestrian,1,0,0,0,1,1,3,TRUE,13781-3279
+225,2022,5/17/2022,USA,CO,Fiery crash,1,1,0,0,0,1,3,TRUE,13781-3074
+223,2022,5/12/2022,USA,CA,Tesla smashes into construction equipment,3,1,2,0,0,3,S,TRUE,#N/A
+222,2022,5/7/2022,USA,UT,Tesla DUI involving another vehicle,2,0,0,2,0,0,#N/A,FALSE,#N/A
+221,2022,5/1/2022,USA,PA,Tesla DUI hits pedestrian,1,0,0,0,1,1,#N/A,FALSE,#N/A
+220,2022,4/29/2022,USA,NC," Highway accident, Tesla goes airborne  ",1,1,0,0,0,0,#N/A,FALSE,#N/A
+219,2022,4/14/2022,USA,FL,Crash with motorcycle,1,0,0,1,0,0,Y,TRUE,13781-3470
+216,2022,3/26/2022,USA,CA," DUI crash on highway, Tesla catches fire ",1,0,0,0,0,1,Y,TRUE,13781-2600
+215,2022,3/21/2022,USA,CA,Three car collision involving Tesla,2,0,0,2,0,0,#N/A,FALSE,#N/A
+214,2022,3/20/2022,USA,CA,Car crosses double yellow and crashes with a Tesla,2,1,0,1,0,1,3,FALSE,#N/A
+213,2022,3/14/2022,USA,CA,Tesla collides into rail on highway,2,1,1,0,0,1,#N/A,FALSE,#N/A
+212,2022,3/14/2022,USA,FL,Tesla crash that ends in fire,1,1,0,0,0,1,#N/A,FALSE,#N/A
+210,2022,3/12/2022,USA,NY,Tesla ignites on parkway,1,1,0,0,0,1,S,FALSE,#N/A
+208,2022,3/7/2022,USA,CA,Car found overturned in a ravine,1,1,0,0,0,1,#N/A,FALSE,#N/A
+207,2022,3/5/2022,USA,CA,Tesla crashes head on with other car,1,0,0,1,0,0,#N/A,FALSE,#N/A
+206,2022,2/28/2022,USA,ID,Car found in water-swollen ditch,1,1,0,0,0,1,#N/A,FALSE,#N/A
+205,2022,2/27/2022,USA,MO,Tesla breaks down in traffic and causes pile-up,1,1,0,0,0,1,#N/A,FALSE,#N/A
+204,2022,2/12/2022,USA,CA,Tesla crashes into a tree,1,1,0,0,0,1,#N/A,FALSE,#N/A
+203,2022,2/7/2022,USA,FL," Tesla loses control, hits pole, ignites ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+202,2022,1/16/2022,USA,CA,Three-car collision near intersection,1,0,0,1,0,0,#N/A,FALSE,#N/A
+201,2022,1/1/2022,USA,CA,Motorcyclist crashes into Tesla,1,0,0,1,0,0,X,FALSE,#N/A
+200,2022,1/1/2022,USA,CA,Single-collision on onramp,1,1,0,0,0,1,#N/A,FALSE,#N/A
+199,2021,12/31/2021,USA,CA,Tesla crashes into trees,2,1,1,0,0,2,#N/A,FALSE,#N/A
+198,2021,12/28/2021,USA,CA,Multi-crash involving DUI,1,0,0,1,0,0,3,TRUE,13781-3900
+196,2021,12/18/2021,USA,CA,Multi-car accident,1,0,0,1,0,0,Y,FALSE,#N/A
+194,2021,12/7/2021,USA,AZ,Vehicular collision,1,1,0,0,0,1,#N/A,FALSE,#N/A
+191,2021,12/1/2021,USA,CA," Collision with pole, battery ignited ",1,1,0,0,0,1,3,FALSE,#N/A
+190,2021,11/29/2021,USA,CA,DUI crash with parked car,1,0,0,1,0,0,#N/A,FALSE,#N/A
+189,2021,11/15/2021,USA,CA,Pedestrian hit at crosswalk,1,0,0,0,0,1,#N/A,FALSE,#N/A
+188,2021,11/8/2021,USA,AZ,Three car collision,1,0,0,1,0,0,#N/A,FALSE,#N/A
+187,2021,11/8/2021,USA,OH," Tesla hits fixture, catches fire ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+186,2021,11/6/2021,USA,NV,DUI crash,1,0,1,0,0,1,Y,FALSE,#N/A
+185,2021,11/4/2021,USA,FL,Tesla hits bicyclist before crashing,1,0,0,0,1,1,#N/A,FALSE,#N/A
+184,2021,10/28/2021,USA,GA,Multi-collision event on highway,1,0,0,1,0,0,#N/A,FALSE,#N/A
+183,2021,10/15/2021,USA,AZ,Toyota hits Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+182,2021,9/17/2021,USA,IA,Three-way car collision,1,0,0,1,0,0,#N/A,FALSE,#N/A
+181,2021,9/13/2021,USA,FL," Tesla suffers suspension failure, hits tree, and ignites on fire ",2,1,1,0,0,2,3,FALSE,#N/A
+179,2021,9/4/2021,USA,FL," Tesla runs stop sign, crashes into house ",2,0,1,0,1,2,S,FALSE,#N/A
+178,2021,8/29/2021,USA,NY," Car hits utility pole, ignites ",2,1,1,0,0,2,3,FALSE,#N/A
+176,2021,8/25/2021,USA,AZ,Tesla runs a red light and hits another car,3,0,0,3,0,0,#N/A,FALSE,#N/A
+175,2021,8/17/2021,USA,PA,Tesla crashes into guardrail,1,1,0,0,0,1,3,FALSE,#N/A
+173,2021,7/26/2021,USA,NY,Pedestrian hit on shoulder,1,0,0,0,1,1,Y,TRUE,13781-21
+172,2021,7/23/2021,USA,GA,Tesla Driver loses control and hits median barrier,1,1,0,0,0,1,3,FALSE,#N/A
+171,2021,7/21/2021,USA,GA,Tesla driver hits man on shoulder of highway,1,0,0,0,1,1,#N/A,FALSE,#N/A
+170,2021,7/7/2021,USA,CA,Other driver dies in head-on collision,1,0,0,1,0,0,S,FALSE,#N/A
+169,2021,6/29/2021,USA,CA," Car crashes into Tesla, fire breaks out ",2,1,0,1,0,1,#N/A,FALSE,#N/A
+168,2021,6/19/2021,USA,MI," Tesla hits power pole, runs off road, and ignites ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+167,2021,6/16/2021,USA,FL," Tesla crashes, driver later dies in hospital ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+165,2021,6/11/2021,USA,WA,Tesla crashes through backyard fence,1,1,0,0,0,1,#N/A,FALSE,#N/A
+164,2021,6/11/2021,USA,NY,Driver crashes into senior living facility,1,0,1,0,0,1,#N/A,FALSE,#N/A
+163,2021,6/1/2021,USA,WA," Tesla hits concrete barrier, later catches on fire ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+162,2021,5/26/2021,USA,VA,Tesla involved in multi-car highway accident,4,0,0,4,0,0,#N/A,FALSE,#N/A
+159,2021,5/5/2021,USA,CA,Multi-event collision with truck on highway,1,1,0,0,0,1,3,TRUE,13781-5609
+158,2021,4/17/2021,USA,TX," Tesla crashes into tree, bursts into fire ",2,0,0,0,0,2,S,TRUE,#N/A
+155,2021,4/14/2021,USA,TX,Head-on collision involving a Tesla,1,1,0,0,0,1,#N/A,FALSE,#N/A
+153,2021,4/3/2021,USA,PA," Tesla loses control, hits railing and cut in half ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+148,2021,3/10/2021,USA,CA," Tesla crashes into tree, occupants killed ",2,1,1,0,0,1,#N/A,FALSE,#N/A
+147,2021,3/7/2021,USA,OH,3 car collision near intersection,1,0,0,1,0,0,#N/A,FALSE,#N/A
+146,2021,2/22/2021,USA,CA,High speed crash into telephone poll,1,1,0,0,0,1,#N/A,FALSE,#N/A
+145,2021,1/22/2021,USA,AZ," Tesla crashes into tree, occupants killed ",2,1,1,0,0,2,#N/A,FALSE,#N/A
+144,2021,1/21/2021,USA,CO," Tesla hits car and car crashes, driver later dies ",1,0,0,1,0,0,#N/A,FALSE,#N/A
+143,2021,1/15/2021,USA,FL," Head-on collision involving a Tesla, other driver dies ",1,0,0,1,0,0,#N/A,FALSE,#N/A
+142,2021,1/10/2021,USA,UT," Car collides with Tesla, both drivers die ",2,1,0,1,0,0,#N/A,FALSE,#N/A
+140,2020,12/11/2020,USA,FL," Pedestrians hit and run by Tesla, one died from injuries ",1,0,0,0,1,1,#N/A,FALSE,#N/A
+138,2020,12/4/2020,USA,CA," Car loses control, goes airborne, hits telephone pole ",1,0,1,0,0,1,#N/A,FALSE,#N/A
+137,2020,11/16/2020,USA,MO,Five-vehicle pileup involving truck,1,0,0,1,0,0,Y,FALSE,#N/A
+136,2020,10/31/2020,USA,CA," Car hit by a Tesla, driver later died from injuries ",1,0,0,1,0,0,Y,FALSE,#N/A
+135,2020,10/10/2020,USA,CA,Motorcyclist died after rear-ending a Tesla,1,0,0,1,0,0,Y,FALSE,#N/A
+133,2020,9/17/2020,USA,GA," Car loses control, hits bus shelter ",1,0,0,0,1,1,3,TRUE,13781-3847
+132,2020,9/12/2020,USA,CA," Car lands on Tesla, other vehicle driver dies ",1,0,0,1,0,0,#N/A,FALSE,#N/A
+131,2020,9/6/2020,USA,IL," Tesla runs thru red light, crashes, driver dies at scene ",1,1,0,0,0,1,#N/A,FALSE,#N/A
+129,2020,8/24/2020,USA,VA," Two car collision at intersection, other driver dies afterwards ",1,0,0,1,0,0,X,FALSE,#N/A
+127,2020,8/12/2020,USA,CA,Tesla hits two cars along exit ramp & catches fire,2,1,1,0,0,1,#N/A,TRUE,#N/A
+126,2020,8/2/2020,USA,CA," Tesla crashes into tree, ignites, kills driver and passenger ",2,1,1,0,0,1,#N/A,FALSE,#N/A
+125,2020,7/18/2020,USA,UT," Tesla races other car, other car crashes ",1,0,0,1,0,0,#N/A,FALSE,#N/A
+124,2020,6/23/2020,USA,GA,Vehicle collides with Tesla at intersection,1,0,0,1,0,0,#N/A,FALSE,#N/A
+120,2020,5/25/2020,USA,CA,Tesla goes off cliff and later found,1,1,0,0,0,1,#N/A,FALSE,#N/A
+119,2020,5/14/2020,USA,CA,Two-car collision,1,0,0,1,0,0,3,TRUE,13781-2423
+118,2020,5/5/2020,USA,CA,Drunk driver strikes Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+114,2020,4/1/2020,USA,OH,Tesla drive off road into tree,1,1,0,0,0,1,3,FALSE,#N/A
+113,2020,3/8/2020,USA,GA,Motorcyclist rear ends Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+111,2020,2/24/2020,USA,CA,Driver dies as Tesla goes down embankment,1,1,0,0,0,1,#N/A,FALSE,#N/A
+109,2020,1/31/2020,USA,FL,Nissan in front of Tesla loses control,1,0,0,1,0,0,3,FALSE,#N/A
+108,2020,1/26/2020,USA,NJ,Tesla crashes into car at toll booth,1,0,0,1,0,0,X,FALSE,#N/A
+105,2020,1/18/2020,USA,CA," Tesla strikes sign, burns ",1,1,0,0,0,1,S,FALSE,#N/A
+104,2020,1/5/2020,USA,UT," Tesla runs red, strikes car, burns ",2,0,0,2,0,0,#N/A,FALSE,#N/A
+103,2020,1/4/2020,USA,FL,Tesla strikes Mercury,1,0,0,1,0,0,3,FALSE,#N/A
+102,2019,12/29/2019,USA,IN,Tesla rear ends parked fire truck,1,0,1,0,0,1,3,TRUE,missing
+101,2019,12/29/2019,USA,CA,Tesla runs red light after exiting freeway,2,0,0,2,0,0,S,TRUE,missing
+99,2019,12/19/2019,USA,FL,Police SUV strikes Tesla,2,1,1,0,0,2,#N/A,FALSE,#N/A
+98,2019,12/11/2019,USA,CA,Tesla strikes turning Lexus,1,0,0,1,0,0,X,FALSE,#N/A
+97,2019,12/10/2019,USA,NV,Kia rear ends Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+96,2019,12/1/2019,USA,TX,Struck Ford veers into Tesla's lane,2,0,0,2,0,0,#N/A,FALSE,#N/A
+94,2019,11/22/2019,USA,CA,Tire strikes Tesla,1,1,0,0,0,1,#N/A,FALSE,#N/A
+93,2019,11/21/2019,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,S,FALSE,#N/A
+91,2019,11/20/2019,USA,FL,Tesla turns into oncoming traffic,1,1,0,0,0,1,3,FALSE,#N/A
+90,2019,11/20/2019,USA,CA,Tesla in multi vehicle crash,1,0,0,1,0,0,#N/A,FALSE,#N/A
+88,2019,11/10/2019,USA,FL,Wrong way driver strikes Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+87,2019,11/7/2019,USA,CA,Two car collision,1,0,0,1,0,0,3,FALSE,#N/A
+85,2019,10/19/2019,USA,PA," Man thrown from vehicle, struck by Tesla ",1,0,0,1,0,0,X,TRUE," 13781-1979 | Currently marked as [Unknown] for ""Automated System Engaged?"" "
+83,2019,10/12/2019,USA,CA," Wrong way driver strikes Tesla, Tesla burns ",1,0,0,1,0,0,S,FALSE,#N/A
+82,2019,9/22/2019,USA,NV,Tesla runs red light,1,0,0,1,0,0,3,FALSE,#N/A
+81,2019,9/17/2019,USA,FL,Tesla into oncoming traffic,1,1,0,0,0,1,#N/A,TRUE,#N/A
+80,2019,9/11/2019,USA,OH,Subaru strikes Tesla,1,0,0,1,0,0,S,FALSE,#N/A
+79,2019,9/11/2019,USA,VA,Tesla kills motorcyclist,1,0,0,1,0,0,S,FALSE,#N/A
+78,2019,9/8/2019,USA,CA,Honda rear ends Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+77,2019,9/7/2019,USA,PA," Tesla drives through T intersection, into woods ",1,0,1,0,0,1,3,FALSE,#N/A
+75,2019,8/24/2019,USA,CA,Tesla rear ends Ford,1,0,0,1,0,0,3,TRUE,missing
+73,2019,8/-/2019,USA,NY,Collision,1,0,0,0,0,1,X,TRUE,13781-1785
+72,2019,7/21/2019,USA,DE," Tesla drives into office building, kills occupant ",1,0,0,0,1,1,3,FALSE,#N/A
+71,2019,7/21/2019,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,3,FALSE,#N/A
+70,2019,7/13/2019,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,#N/A,FALSE,#N/A
+69,2019,7/8/2019,USA,IA,Car drifts into Tesla's lane,1,0,0,1,0,0,S,FALSE,#N/A
+68,2019,6/30/2019,USA,CA,Single car crash near Menifee,1,1,0,0,0,1,3,TRUE,#N/A
+66,2019,6/4/2019,USA,CA,Six vehicle crash,1,0,0,1,0,0,S,FALSE,#N/A
+65,2019,5/31/2019,USA,CA,Tesla rear ends Ford,1,0,0,1,0,0,#N/A,FALSE,#N/A
+63,2019,4/25/2019,USA,FL,Tesla kills pedestrian,1,0,0,0,1,1,S,TRUE,missing
+62,2019,4/15/2019,USA,CA,Tesla strikes on-ramp curb,1,0,1,0,0,1,#N/A,FALSE,#N/A
+60,2019,3/10/2019,USA,FL,BMW strikes Tesla,1,0,1,0,0,1,3,FALSE,#N/A
+59,2019,3/1/2019,USA,FL,Autopilot into firetruck,1,1,0,0,0,1,3,TRUE,missing
+58,2019,2/24/2019,USA,FL," Tesla crashes into tree, burns ",1,1,0,0,0,1,S,FALSE,#N/A
+57,2019,2/18/2019,USA,CA,Tesla rear ends stopped car,1,1,0,0,0,1,S,FALSE,#N/A
+55,2018,12/30/2018,USA,VA," Early morning, single car collision ",1,1,0,0,0,1,3,FALSE,#N/A
+54,2018,12/26/2018,USA,NH,Burned in New Ipswich crash,1,0,1,0,0,1,X,FALSE,#N/A
+52,2018,11/10/2018,USA,FL,Tesla kills motorcyclist,1,0,0,1,0,0,X,FALSE,#N/A
+51,2018,11/9/2018,USA,CA,Tesla crashes into tree,2,0,2,0,0,2,S,FALSE,#N/A
+49,2018,9/21/2018,USA,CA,Single car collision in Anaheim on SR-91,1,1,0,0,0,1,S,FALSE,#N/A
+46,2018,7/24/2018,USA,MO,Concrete falls on Tesla,1,1,0,0,0,1,#N/A,FALSE,#N/A
+45,2018,5/20/2018,USA,CA,Tesla drives into pond,1,1,0,0,0,1,S,FALSE,#N/A
+43,2018,5/8/2018,USA,FL,Two teens trapped in burning Tesla,2,1,1,0,0,2,S,FALSE,#N/A
+41,2018,4/28/2018,USA,OH,Ohio prom night crash,1,0,1,0,0,1,S,FALSE,#N/A
+40,2018,3/23/2018,USA,CA,Autopilot into highway barrier,1,1,0,0,0,1,#N/A,TRUE,missing
+35,2017,9/24/2017,USA,TN,Tesla drives off road,1,1,0,0,0,1,#N/A,FALSE,#N/A
+34,2017,8/13/2017,USA,AZ,Tesla kills motorcyclist,1,0,0,1,0,0,#N/A,FALSE,#N/A
+33,2017,7/21/2017,USA,AZ,Wrong way driver strikes Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+32,2017,6/25/2017,USA,CA,Tesla strikes Camry,1,0,0,1,0,0,#N/A,FALSE,#N/A
+31,2017,6/10/2017,USA,HI,Unclear; see note at right,1,0,0,1,0,0,S,FALSE,#N/A
+30,2017,5/11/2017,USA,FL,Tesla into oncoming traffic,1,0,0,1,0,0,#N/A,FALSE,#N/A
+28,2017,3/13/2017,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,#N/A,FALSE,#N/A
+26,2016,12/20/2016,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,X,FALSE,#N/A
+25,2016,11/23/2016,USA,IL,Driver dead in Winnebago County,1,1,0,0,0,1,S,FALSE,#N/A
+24,2016,11/3/2016,USA,IN,Indianapolis fire,2,1,1,0,0,2,#N/A,FALSE,#N/A
+23,2016,10/10/2016,USA,NH,Pileup,1,0,0,1,0,0,S,FALSE,#N/A
+22,2016,10/7/2016,USA,CA,Tesla kills motorcyclist,1,0,0,1,0,0,#N/A,FALSE,#N/A
+20,2016,9/1/2016,USA,FL,Motorcyclist rear ends Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+19,2016,8/15/2016,USA,CA,Tesla rear ended,1,0,1,0,0,1,S,FALSE,#N/A
+18,2016,7/29/2016,USA,FL,Tesla kills pedestrian,1,0,0,0,1,1,#N/A,FALSE,#N/A
+17,2016,7/22/2016,USA,CA,Passat strikes Tesla,1,0,0,1,0,0,S,FALSE,#N/A
+16,2016,6/8/2016,USA,HI,Nissan Altima wrong way into Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+15,2016,5/7/2016,USA,FL,Autopilot into 18 wheeler,1,1,0,0,0,1,#N/A,TRUE,missing
+14,2016,4/22/2016,USA,CA,Pedestrian killed in pileup,1,0,0,0,1,1,S,FALSE,#N/A
+13,2016,4/8/2016,USA,OH,Chevy Cobalt wrong way into Tesla,1,0,0,1,0,0,#N/A,FALSE,#N/A
+11,2015,12/28/2015,USA,TX,Sudden unintended acceleration into pool,1,1,0,0,0,1,#N/A,FALSE,#N/A
+9,2015,11/18/2015,USA,CA,Tesla kills pedestrian,1,0,0,0,1,1,#N/A,FALSE,#N/A
+8,2015,6/22/2015,USA,CA,Tesla drives off cliff,1,1,0,0,0,1,#N/A,FALSE,#N/A
+7,2015,1/22/2015,USA,CA,Tesla drives off cliff,1,1,0,0,0,1,S,FALSE,#N/A
+6,2014,12/30/2014,USA,CA,Tesla drives off cliff,1,1,0,0,0,1,#N/A,FALSE,#N/A
+5,2014,7/14/2014,USA,CA,Tesla kills motorcyclist,1,0,0,1,0,0,#N/A,FALSE,#N/A
+4,2014,7/4/2014,USA,CA,Thief crashes stolen Tesla,1,1,0,0,0,1,#N/A,FALSE,#N/A
+3,2014,7/4/2014,USA,CA,Tesla rear ends stopped car,3,0,0,3,0,0,#N/A,FALSE,#N/A
+2,2013,11/2/2013,USA,CA,Tesla kills cyclist,1,0,0,0,1,1,#N/A,FALSE,#N/A
+1,2013,4/2/2013,USA,CA,Tesla veers into opposite lane,2,0,0,2,0,0,S,FALSE,#N/A

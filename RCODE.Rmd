@@ -1,0 +1,153 @@
+---
+title: "QBS 181 Final Project"
+author: "Chichi Illoh, Megan McKenzie, Elizabeth Chin"
+date: "2023-11-05"
+output: pdf_document
+---
+```{r}
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(ggplot2)
+library(lubridate)
+library(zoo)
+```
+
+```{r}
+tesla_stock = read.csv("tesla_stock.csv")
+lucid_stock = read.csv("lucid_stock.csv")
+tesla_deaths = read.csv("tesla_deaths.csv")
+
+head(tesla_deaths)
+head(tesla_stock)
+head(lucid_stock)
+```
+
+```{r}
+# Remove the $ in the dataset
+tesla_stock$Close.Last <- gsub("\\$", "", tesla_stock$Close.Last)
+tesla_stock$Open <- gsub("\\$", "", tesla_stock$Open)
+tesla_stock$High <- gsub("\\$", "", tesla_stock$High)
+tesla_stock$Low <- gsub("\\$", "", tesla_stock$Low)
+tesla_stock$Close <- tesla_stock$Close.Last
+tesla_stock$Close.Last <- NULL
+
+lucid_stock$Close.Last <- gsub("\\$", "", lucid_stock$Close.Last)
+lucid_stock$Open <- gsub("\\$", "", lucid_stock$Open)
+lucid_stock$High <- gsub("\\$", "", lucid_stock$High)
+lucid_stock$Low <- gsub("\\$", "", lucid_stock$Low)
+lucid_stock$Close <- lucid_stock$Close.Last
+lucid_stock$Close.Last <- NULL
+```
+
+```{r}
+# make prices numeric
+tesla_stock$Open = as.numeric(tesla_stock$Open)
+tesla_stock$High = as.numeric(tesla_stock$High)
+tesla_stock$Low = as.numeric(tesla_stock$Low)
+tesla_stock$Close = as.numeric(tesla_stock$Close)
+
+lucid_stock$Open = as.numeric(lucid_stock$Open)
+lucid_stock$High = as.numeric(lucid_stock$High)
+lucid_stock$Low = as.numeric(lucid_stock$Low)
+lucid_stock$Close = as.numeric(lucid_stock$Close)
+```
+
+```{r}
+# join tesla stock data with tesla deaths data
+teslastock_tesladeaths = tesla_stock %>%
+  left_join(tesla_deaths, by = "Date")
+teslastock_tesladeaths
+```
+
+```{r}
+# join the tesla stock and death dataset with the lucid stock dataset
+combined_data = teslastock_tesladeaths %>%
+  inner_join(lucid_stock, by = "Date")
+```
+
+```{r}
+na.strings<-c("","#N/A", "<NA>") #set #N/A to be NAs
+na_ix<-Reduce("|",lapply(na.strings,"==",combined_data)) #find the NAs
+is.na(combined_data)<-na_ix #physically replace the NAs so they are uniform
+```
+
+```{r}
+# rename all the columns
+combined_data = combined_data %>% 
+  rename("Tesla_Close" = Close.x) %>% 
+  rename("Tesla_Volume" = Volume.x) %>%
+  rename("Tesla_Open" = Open.x) %>% 
+  rename("Tesla_High" = High.x) %>%
+  rename("Tesla_Low" = Low.x) %>%
+  rename("Lucid_Close" = Close.y) %>% 
+  rename("Lucid_Volume" = Volume.y) %>%
+  rename("Lucid_Open" = Open.y) %>% 
+  rename("Lucid_High" = High.y) %>%
+  rename("Lucid_Low" = Low.y) 
+```
+
+```{r}
+# mutate date so its month day year
+combined_data = combined_data%>%
+  mutate(Date = mdy(Date))
+```
+
+
+Visual Exploratory Analysis
+
+```{r}
+ggplot(data=combined_data, aes(x=Date, y=Tesla_High, group=1)) +
+  geom_line()
+```
+
+```{r}
+ggplot(combined_data,aes(x=`Tesla_Volume`))+ 
+  geom_histogram(bins=20,colour="black",fill="#CA3C25")+
+  labs(x="Tesla volume of stock in a Day", y = "Frequency") #another layer!
+
+```
+
+```{r}
+ggplot(combined_data,aes(x=`Lucid_Volume`))+ 
+  geom_histogram(bins=20,colour="black",fill="#CA3C25")+
+  labs(x="Lucid volume of stock in a Day", y = "Frequency") #another layer!
+
+```
+
+```{r}
+ggplot(combined_data,aes(x=`Tesla_High`))+ 
+  geom_histogram(bins=20,colour="black",fill="#CA3C25")+
+  labs(x="Tesla Highest Stock Price in a Day", y = "Frequency") #another layer!
+```
+
+```{r}
+ggplot(combined_data,aes(x=`Lucid_High`))+ 
+  geom_histogram(bins=20,colour="black",fill="#CA3C25")+
+  labs(x="Lucid Highest Stock Price in a Day", y = "Frequency") #another layer!
+```
+
+```{r}
+ggplot(combined_data,aes(x=`Deaths`))+ 
+  geom_histogram(bins=20,colour="black",fill="#CA3C25")+
+  labs(x="Distribution of Deaths in a Car Accidents", y = "Frequency") #another layer!
+```
+
+```{r}
+ggplot(combined_data,aes(x=`State`, y=`Deaths`))+ 
+  geom_boxplot()+
+  labs(x="States", y = "Deaths")
+```
+
+```{r}
+ggplot(combined_data, aes(x = Date)) +
+  geom_line(aes(y = Tesla_Close, colour = "Tesla")) +
+  geom_line(aes(y = Lucid_Close, colour = "Lucid")) +
+  labs(title = "Closing Prices", x = "Date", y = "Price (USD)") +
+  theme_minimal()
+```
+
+```{r}
+write.csv(combined_data, "combined_data.csv", row.names = FALSE)
+```
+
